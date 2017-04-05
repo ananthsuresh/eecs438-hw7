@@ -1,0 +1,40 @@
+Serial on Array Size of 20 Million
+3.553928 seconds
+Serial on Array Size of 40 Million
+7.366769 seconds
+Serial on Array Size of 60 Million
+11.522504 seconds
+Serial on Array Size of 80 Million
+15.775288 seconds
+Serial on Array Size of 100 Million
+19.652254 seconds
+2 Threads on Array Size of 20 Million
+1.853139 seconds
+2 Threads on Array Size of 40 Million
+3.852286 seconds
+2 Threads on Array Size of 60 Million
+5.917861 seconds
+2 Threads on Array Size of 80 Million
+8.024825 seconds
+2 Threads on Array Size of 100 Million
+10.159934 seconds
+4 Threads on Array Size of 20 Million
+1.151651 seconds
+4 Threads on Array Size of 40 Million
+2.368259 seconds
+4 Threads on Array Size of 60 Million
+3.651546 seconds
+4 Threads on Array Size of 80 Million
+4.961806 seconds
+4 Threads on Array Size of 100 Million
+6.270751 seconds
+8 Threads on Array Size of 20 Million
+1.514554 seconds
+8 Threads on Array Size of 40 Million
+2.508585 seconds
+8 Threads on Array Size of 60 Million
+3.793196 seconds
+8 Threads on Array Size of 80 Million
+4.969459 seconds
+8 Threads on Array Size of 100 Million
+6.274273 seconds
